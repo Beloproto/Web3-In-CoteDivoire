@@ -4,3 +4,10 @@ Here is a place where you can submit your coming and planned local events.
 *Bootcamp
 *Hackathons
 ...more !
+
+For each events, create one folder with your event description and all the basic infos 
+                + a new folder with your picture / banner
+                + a new folder with your event recap (Minimum top 7 pictures) 
+
+You can create a folder as Collaborator using : "/ " after your event name
+ex: public/events/BabiCryptoDays/infos-pictures
